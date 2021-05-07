@@ -1,0 +1,22 @@
+{
+  "title": "垓下古城：固镇县",
+  "description": "介绍垓下古城安徽省固镇县的各种信息。",
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Gitbook演示"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "gaixia_ancient_city_guzhen"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/gaixia_ancient_city_guzhen/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/gaixia_ancient_city_guzhen/pdf/gaixia_ancient_city_guzhen.pdf"
+    }
+  }
+}
